@@ -12,3 +12,13 @@ ECHO est� activado.
 
 ## What is Markdown?  
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It is often used to format README files, write messages in online discussion forums, and create simple websites.
+
+## Markdown Tagging Options  
+Markdown offers various formatting options to enhance the appearance of your text. Below are some commonly used tags:
+
+### Headings
+Use `#` for headings:
+```markdown
+# Heading 1
+## Heading 2
+### Heading 3
